@@ -1,5 +1,5 @@
 {
-  "description": "session name",
+  "description": "xenomd",
   "main": "./malvin.js",
   "type": "commonjs",
   "engines": {
