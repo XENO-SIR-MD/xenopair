@@ -1,10 +1,10 @@
 
 {
     "name": "session name",
-    "description": "Web Session Generator",
+    "description": "XENO MD PAIR",
     "logo": "image url",
-    "repository": "https://github.com/username/sesssion name",
-    "keywords": ["Malvin-Tech"],
+    "repository": "https://github.com/XENO-SIR-MD/XENO-XD",
+    "keywords": ["xᴇɴᴏ xᴅ"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
