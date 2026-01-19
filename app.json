@@ -3,7 +3,7 @@
     "name": "session name",
     "description": "XENO MD PAIR",
     "logo": "image url",
-    "repository": "https://github.com/XENO-SIR-MD/XENO-XD",
+    "repository": "https://github.com/XENO-SIR-MD/XENO-MD",
     "keywords": ["xᴇɴᴏ xᴅ"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
